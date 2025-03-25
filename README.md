@@ -2,7 +2,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-Explain what software engineering is and discuss its importance in the technology industry.
+1.Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is a branch of computer science focusing on the systematic design, development, testing, deployment, and maintenance of software applications. It applies engineering principles to software development to ensure that software systems are reliable, efficient, secure, and scalable.
 
@@ -15,7 +15,7 @@ Software engineering introduces development methodologies like Agile, DevOps, an
 Enabling Scalability and Flexibility
 As businesses grow, their software must scale to accommodate increasing user demands.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+2.Identify and describe at least three key milestones in the evolution of software engineering.
 
 mastering complexity 
 As software systems grew in scale, early developers faced challenges in managing complexity, leading to inefficiencies, high error rates, and system failures.
@@ -29,7 +29,7 @@ mastering machine
 As computing power increased and new architectures emerged, software needed to be optimized for scalability, security, and real-time processing.
 Modern software engineering embraces automation, cloud-based development, and AI-driven optimizations, making software more scalable, secure, and efficient.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+3.List and briefly explain the phases of the Software Development Life Cycle.
 
 Planning
 This phase involves identifying the software’s purpose, scope, objectives, and feasibility.
@@ -60,7 +60,7 @@ Maintenance & Updates
 Developers provide ongoing support, fix bugs, and release updates to enhance functionality.
 Continuous monitoring ensures the software remains secure and efficient.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall
 Waterfall is suitable for projects with clear requirements, strict deadlines, and minimal need for changes.
 
@@ -75,7 +75,7 @@ Examples:
 Mobile App Development: Frequent feature updates and user feedback require an iterative approach.
 E-commerce Platforms: Businesses need to quickly adapt to customer preferences and market trends.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Roles and Responsibilities in a Software Engineering Team
 Software Developer – Designs, develops, and maintains software using programming languages and frameworks. Collaborates with the team to ensure best practices, reports progress to the project manager, and updates software for functionality.
 
@@ -83,7 +83,7 @@ Quality Assurance (QA) Engineer – Ensures software meets requirements before d
 
 Project Manager – Leads the development team, communicates with clients and developers, creates project blueprints, tracks milestones, and ensures successful software delivery while monitoring performance.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs)
 An IDE is a software platform that facilitates coding by providing tools for writing, compiling, debugging, and testing code.
@@ -104,7 +104,7 @@ Change Tracking – Keeps a record of modifications for easy review and rollback
 Branching & Merging – Supports feature development in separate branches without affecting the main code.
 Error Recovery – Allows reverting to previous versions if bugs arise.
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Rapid Technological Advancements – Staying updated with evolving technologies is challenging.
 Solution: Continuous learning, adopting agile methodologies, and staying engaged with industry trends.
@@ -124,7 +124,7 @@ Solution: Research and apply best security practices, including encryption and t
 Software Accessibility & Usability – Complex software can hinder user experience.
 Solution: Focus on scalable architecture, intuitive design, and reliability for better usability.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Types of Software Testing & Their Importance in Quality Assurance
 Unit Testing – Tests individual methods, functions, or components in isolation to ensure they work correctly.
@@ -141,7 +141,7 @@ Importance: Confirms readiness for deployment, ensures user satisfaction, and ve
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+9. Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt Engineering is the practice of crafting effective inputs to guide AI models in generating desired outputs.
 Importance:
@@ -149,7 +149,7 @@ Improved User Experience – Helps users obtain relevant results quickly while r
 Increased Flexibility – Enables creation of prompts that emphasize logical patterns and broad applications.
 Developer Control – Provides better control over AI interactions by establishing clear intent and context.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+10. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt: "Write about space."
 Improved Prompt: "Explain the formation of black holes, including the role of massive stars, gravitational collapse, and event horizons, in 300 words."
